@@ -31,7 +31,6 @@ travel folders, and simple family activities that do not need another app or vid
 - [Education.com Worksheets](https://www.education.com/resources/worksheets/) - Printable worksheets by grade, subject, and skill.
 - [Reading Rockets Literacy at Home](https://www.readingrockets.org/literacy-home) - Reading tips, family literacy ideas, and hands-on learning resources.
 - [NASA For Kids and Students](https://www.nasa.gov/learning-resources/for-kids-and-students/) - Space learning activities, printables, and student resources.
-- [PBS KIDS Printables](https://pbskids.org/printables/) - Printable activity sheets connected to PBS KIDS shows and learning themes.
 - [Scholastic Learn at Home](https://classroommagazines.scholastic.com/support/learnathome.html) - Reading and learning activities for different grade levels.
 
 ## Crafts and Making
@@ -41,7 +40,6 @@ travel folders, and simple family activities that do not need another app or vid
 - [Activity Village](https://www.activityvillage.co.uk/) - Coloring pages, puzzles, crafts, and printable activities for kids.
 - [Red Ted Art](https://www.redtedart.com/) - Paper crafts, seasonal projects, and simple making ideas.
 - [The Craft Train](https://www.thecrafttrain.com/) - Kids craft ideas with many printable templates.
-- [Made with Happy](https://www.madewithhappy.com/kids-crafts/) - Colorful craft projects and family activity ideas.
 
 ## Puzzles and Brain Games
 
@@ -54,18 +52,13 @@ travel folders, and simple family activities that do not need another app or vid
 ## Calm and Mindful Activities
 
 - [Mindful - Mindfulness for Kids](https://www.mindful.org/mindfulness-for-kids/) - Simple mindfulness ideas and family-friendly practices.
-- [Coping Skills for Kids](https://copingskillsforkids.com/blog/coping-skills-for-kids-workbook-free-printable) - Printable coping skills workbook and calm activity ideas.
-- [Big Life Journal Free Printables](https://biglifejournal.com/pages/free-printables) - Growth mindset and reflection printables for kids.
-- [GoZen Printables](https://gozen.com/printables/) - Emotional learning and self-regulation printables.
 - [Positive Psychology Kids Worksheets](https://positivepsychology.com/mindfulness-for-kids/) - Mindfulness activities and worksheets for children.
 
 ## Nature and Outdoor Ideas
 
 - [National Wildlife Federation Kids](https://www.nwf.org/Kids-and-Family) - Outdoor activity ideas, wildlife learning, and family nature projects.
-- [Project Learning Tree Activities](https://www.plt.org/family-activities/) - Nature activities for families and educators.
 - [The Nature Conservancy Nature Lab](https://www.nature.org/en-us/about-us/who-we-are/how-we-work/youth-engagement/nature-lab/) - Nature learning resources and activities for students.
 - [National Geographic Kids](https://kids.nationalgeographic.com/) - Animal facts, nature ideas, and kid-friendly science topics.
-- [RSPB Fun and Learning](https://www.rspb.org.uk/fun-and-learning) - Nature activities, birdwatching ideas, and wildlife learning for children.
 
 ## Notes
 
