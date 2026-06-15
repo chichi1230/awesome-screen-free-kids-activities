@@ -22,7 +22,6 @@ travel folders, and simple family activities that do not need another app or vid
 - [Just Color](https://www.justcolor.net/kids/) - Coloring pages for kids, with animals, cartoons, holidays, and nature themes.
 - [Huebloom](https://huebloom.art/) - Free printable coloring pages for kids, classrooms, and screen-free art time.
 - [Huebloom Learning Coloring Pages](https://huebloom.art/coloring-pages/learning) - Alphabet and number coloring pages for early learning.
-- [FirstPalette Coloring Pages](https://www.firstpalette.com/printable/coloring-pages.html) - Simple printable coloring pages for crafts and classroom use.
 
 ## Learning Printables
 
