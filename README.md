@@ -20,6 +20,7 @@ travel folders, and simple family activities that do not need another app or vid
 - [SuperColoring](https://www.supercoloring.com/coloring-pages) - Large collection of coloring pages across animals, holidays, places, and more.
 - [Monday Mandala](https://mondaymandala.com/) - Printable coloring pages, craft templates, and activity sheets.
 - [Just Color](https://www.justcolor.net/kids/) - Coloring pages for kids, with animals, cartoons, holidays, and nature themes.
+- [ColorKind](https://colorkind.app/) - Turns ideas or family photos into printable coloring pages, with five free creations for new installations.
 - [Huebloom](https://huebloom.art/) - Free printable coloring pages for kids, classrooms, and screen-free art time.
 - [Huebloom Learning Coloring Pages](https://huebloom.art/coloring-pages/learning) - Alphabet and number coloring pages for early learning.
 
